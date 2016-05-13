@@ -1,4 +1,4 @@
-# php datacache
+# PHP datacache
 Simple file based cache for php variables
 
 **Before:**
